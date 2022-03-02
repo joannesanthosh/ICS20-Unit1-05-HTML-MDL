@@ -1,4 +1,4 @@
-{
+
   "tagname-lowercase": true,
   "attr-lowercase": true,
   "attr-value-double-quotes": true,
@@ -23,4 +23,3 @@
   "href-abs-or-rel": false,
   "attr-unsafe-chars": true,
   "head-script-disabled": true
-}
